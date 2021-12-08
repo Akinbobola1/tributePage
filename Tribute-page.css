@@ -1,0 +1,55 @@
+
+.image{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    border:rgb(68, 83, 83) ;
+  border-color: rgb(82, 88, 88);
+  border-style: solid;
+  border-width: 20px 20px;
+}
+blockquote{
+    line-height: 1.8;
+}
+body{
+   background-color: rgb(251, 253, 253);
+   border: rgb(82, 88, 88);
+   border-style: solid;
+  border-width: 20px 20px;
+  border-radius: 5px;
+  padding: 15px;
+  margin: 0;
+  text-align: center;
+}
+.lower{
+    text-align: center;
+    
+}
+
+.subheader{
+    margin: 50px 0;
+    text-align: center;
+    font-size: 3.25rem;
+}
+h3{
+  font-size: 1.25rem;
+}
+.about{
+    margin: 50px 0;
+    text-align: center;
+    font-size: 1.25rem;
+}
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+    
+  }
+  
+  li {
+    margin: 16px 0;
+    text-align: center;
+    line-height: 1.8;
+  }
+  
